@@ -20,3 +20,6 @@
 /*.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
 color:#13405d;	
 }*/
+.modal-body {
+	height: 100% !important;
+}

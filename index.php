@@ -10,7 +10,6 @@
 	<title>Advyte</title>
 	<link rel = "stylesheet" href="css/bootstrap.css" />
 	<link rel = "stylesheet" href = "css/style.css" />
-	<link >
 </head>
 <?php
 	if(isset($_POST['signUp'])) { // user signing up
